@@ -32,5 +32,10 @@ Updating database every after one day
 Checking complaints & comments
 Events board for students
 Creating relevant student hub according to student’s needs
+![Code2](https://github.com/glendagithub/Student-Portal/assets/133219306/13669bb4-26a3-4365-8f2f-92ccf2ef2689)
+
+
+
+
 https://docs.google.com/document/d/118Oe3YkkP5Pkd1eNgBsmp0bcAn3rZCXqZRgh6tpCFTs/edit?usp=drivesdk
 https://www.linkedin.com/in/glanda-rathakga-367b47278/
