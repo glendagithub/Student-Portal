@@ -1,0 +1,12 @@
+/* Add your CSS styles here */
+
+/* This is just a basic template */
+
+/* For responsive layout */
+@media screen and (max-width: 768px) {
+    .container {
+        max-width: 90%;
+    }
+}
+
+/* Additional responsive styles can be added as needed */
